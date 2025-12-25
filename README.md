@@ -13,20 +13,25 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 B.Tech in **Computer Science & Engineering (AI Specialization)** — 2025  
-- 📊 Aspiring **Data Science Professional** with strong foundations in ML & analytics  
-- 🤖 Passionate about solving real-world problems using **data-driven approaches**  
-- 🌱 Currently deepening skills in **Machine Learning & End-to-End Data Science projects**
+- 🎓 B.Tech in **Computer Science & Engineering (AI Specialization)** — 2025 (CGPA: 8.31/10)  
+- 📊 Detail-oriented **Data Science & AI learner** transitioning into professional Data Science roles  
+- 🤖 Passionate about applying **statistics, ML algorithms, and programming** to solve real-world business problems  
+- 🌱 Currently strengthening skills in **Machine Learning, Deep Learning, and Data Analytics**
 
 ---
 
-### 🛠️ Data Science & AI Skills
-
-#### 🔹 Programming & Query Languages
+### 🛠️ Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 </p>
+
+---
+
+### 📊 Data Science & AI Skills
 
 #### 🔹 Data Analysis & Visualization
 <p align="left">
@@ -37,7 +42,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
 </p>
 
-#### 🔹 Machine Learning & AI
+#### 🔹 Machine Learning & Deep Learning
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
 </p>
@@ -47,16 +52,42 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 ---
 
-### 📚 Core Data Science Concepts
+### 📚 Core Knowledge
 - Exploratory Data Analysis (EDA)  
 - Statistics & Probability  
 - Feature Engineering & Feature Selection  
 - Supervised & Unsupervised Learning  
 - Model Evaluation & Optimization  
+- Basics of Data Structures & Algorithms  
+- Computer Networks & Operating Systems  
+
+---
+
+### 🚀 Projects
+
+#### 🔹 Predicting Fraud in Auto Insurance Claims
+- Built ML models to detect fraudulent insurance claims and reduce financial loss  
+- Performed data preprocessing, feature engineering, and model optimization  
+- Models used: Random Forest, XGBoost, MLP  
+- Achieved **93% fraud detection accuracy**  
+- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, MySQL, Flask, HTML/CSS  
+
+#### 🔹 Customer Churn Analysis
+- Designed an interactive **Power BI dashboard** to analyze churn and retention  
+- Built data models and DAX measures to compute churn rate and KPIs  
+- Enabled identification of at-risk customers using dynamic visualizations  
+- **Tools:** Power BI, Power Query, DAX  
+
+---
+
+### 🏅 Certifications
+- ✅ Microsoft Certified: **Azure AI Fundamentals (AI-900)**  
+- ✅ Oracle Certified Professional: **Java SE 11 Developer**
 
 ---
 
@@ -93,5 +124,4 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 ---
 
-⚡ **Fun fact:** I enjoy learning through real-world data and experimenting with ML models.
-
+⚡ **Career Goal:** To grow as a skilled **Data Science professional** by building impactful ML solutions for real-world problems.
